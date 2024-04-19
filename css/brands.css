@@ -148,3 +148,13 @@ button:hover,
 .button.button-whatsapp:focus {
   filter: brightness(90%);
 }
+
+/* partner */
+.button.button-partner {
+  color: #ffffff;
+  background-color: #8e44ad;
+}
+.button.button-partner:hover,
+.button.button-partner:focus {
+  filter: brightness(90%);
+}
